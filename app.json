@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "263789544743",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -85,12 +85,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Zuka",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61VaY+jOBD9Kyt/TWY5AyRSS0s4AqQh97larQwYcDgDhoSM8t9XdLrVLc1Mb6+0fLKM/epV1avn7yDLcYWmqAWj76AocQMJ6pakLRAYgXEdBKgEfeBDAsEIxOY0ZwJmZa9N9zlLd2pyFqud/XyuQiugrooe789GL4saRnoC9z4oajfB3ieAxoz1dA4vzokVRKeJKJx8kVaow20i2TdGrxcrU8e6rHNM/ATuHSLEJc5CrYhQikqYTFE7h7j8Gv2pDIdLLWw56Yw3zkHcJ4sbfWG54TCiqjlcUs/ybVh5QbO9fI2+XS4tKgvrAY88z7wFKVMuTouLxPdmc2l+2s4dA4uJQezJ4kG/wmGGfNNHGcGk/XLdF1MqZ0+nGgtF4goi59DIyC6L1boelslcqfw6LKSe7q4z+WvEIx4yTLjdG5cxE46HIbdxamWqnyI5DoMJmjr44BqXw95SvI/E5+WbVuL/UndPyXbGFu1X1ToTIHG80m6xp9hNa6ZL7VSwB/5C1elVN/iv0TedrLVuerLgHHa4tAQR28lOGNCyctX9NOztrs+JxHMaVuV3+pDU5WcsuVMM23NOX4Vc2iWYWmcupWwNgzqc4sDSNht3x0hCY3urIsqD9KJdrdCezFC5iYPFspL1m0+lR1Gonlm8mRD7uOY0HD69ZBSj1vTBiLn3QYlCXJESEpxnL3s03wfQb1bIKxF5KS+g7L3qJ7shSVabcXI1g/WQyW7aLElm6rwc58PmppjHLa158hPog6LMPVRVyDdwRfKytVFVwRBVYPTnS6e6pEuU5gRZ2AcjwAqcKA0HPC/y3B/V75cIkgoWxe8ZIqAPgjJPbQRGpKxRH7xcGA9YlZFUhR1ILC+yOj8YDuUBo+gMr6ocK3cppo+ga5yiisC0ACNG5HmJEWiWuff/Hx6iNhgznC4okqyqNCfRwoBnOF5SBVbhREH7nAdP3//qgwxdyUPHXfU5pg8CXFZkk9VFkkP/TeRvP6Hn5XVGVm3mKd0ClWD0YRsRgrOw6jKrM1h6EW6Q0uUBRgFMKnTvAx812EPmC38zYNTnul5yQqFxyn7/N+dactfBKM8eRyQaSpLou984KYDfeM4Nvkm8j75JdCAOfMhAgeVAV46HhXR3fj13vuCJhVbEceEWSciMz8GBikvX8B/+9pAiKpH/VmUXenFdrPMYZZ/g7vdhTi+Xu/l1kc/VQWwXYrU2XXldLT7gPiQORt/fbVvJ/Q5vbnDOVJxqoOtWF+cHNYw4/kdBZLA7DSwY/WaTmlQN7IK9dqKD8RGBOKnACCjmCp2pfKLN8YwSpclE1kJZCbtSv3XuzREeE+csj2mhTwQ8iYjFmltZncbJPNWsItuqZpA31+o8VlGvSC5PPwEBIzDDeyv0KsUNK6fkKDgYH1NfzrLdvD36Q6dcir3rROY5yTM1ukWeTvVOPqPU7G238krXqHtHukXW0otc6XYw64N/viiXpy7aQ0Efg9ntteECcbk1oXym5xu+QQcszmzKw04v8iJFP/XoRo5aSYv0nRFHsCG54oibmVPafK5hhGRrMjuNb1R6djDvyvk+XDy86sUrk9c3Cr+6yENvAUYvlv/aiX/t2Lv06Xv/A8brI/ILeY3Xm93xvFzWeZS7Kx/rC7ktrPUgUuCRWbSG8Cy503DBNeejB+7dTBcJJEFepmAEYOaXOfZBHySwIvL79P7EEOhBH6StXBQrAsnb0AO5++xMBfd/ANe80wgfCQAA",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
